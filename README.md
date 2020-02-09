@@ -30,3 +30,4 @@ Goal of the project for me)
 
 So I hope I'm not alone in the dark!
 
+#icdm 2017 here are interesting documentation on the first part of the tool i want to develop in relation with the e-learning automated by A.I. for help teachers(Therapist PHP ,Md, coach, free helper or so whatever  to develop différents interactives and automated tool in relation with the student (user, beneficiary, patient, issuer, etc) with data collections for see and compare evolution of the différents learning and skills acquired in a timeline and implement the diverse tactical strategy, method and systems in relation with the context (conter- indication, user consent, limitation like geolocalisation, contry law regulation, acceptable use of, etc) with solid tech enginer explanation 
